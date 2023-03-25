@@ -1,0 +1,22 @@
+# Detection parameters
+hsv:
+  lower_blue: [100, 50, 50]
+  upper_blue: [130, 255, 255]
+  lower_red: [0, 150, 50]      # For P6 variant
+  upper_red: [10, 255, 255]
+
+# Filters
+contour:
+  min_area: 500
+  epsilon: 0.02                # For approxPolyDP
+  aspect_min: 0.8
+  aspect_max: 1.2
+
+# YOLO
+yolo:
+  model: yolov8n.pt            # Nano model; download auto on first run
+  conf_threshold: 0.5
+  iou_threshold: 0.4
+
+# Viz
+window_size: [640, 480]
